@@ -1,5 +1,5 @@
 # slowtimer
-Set the clock running at manual speed
+Set the clock running at manual speed  
 Cross platform supported  
   
 # to make an exe  
