@@ -1,6 +1,6 @@
 # slowtimer
 Set the clock running at manual speed
-
+Cross platform supported  
   
 # to make an exe  
 pip install https://github.com/pyinstaller/pyinstaller/archive/develop.tar.gz  
